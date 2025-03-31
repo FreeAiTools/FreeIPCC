@@ -13,7 +13,7 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.03.30 new demo URL 最新链接enjoy😄：
+## 2025.03.31 new demo URL 最新链接enjoy😄：
 
 1，话务call manager/在线客服online chat：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
