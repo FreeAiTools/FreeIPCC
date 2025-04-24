@@ -1,4 +1,4 @@
-呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者!We are committed to becoming: 1. Big model call center system, big model inbound call, big model outbound call, telephone robot, customer service robot, intelligent call center system, big model intelligent customer service system; 2. Open source call center system, open source customer service system; 3. Video call center system, video customer service system; 4. Omni-channel customer service system, online customer service system and other global leaders in customer service and corporate customer acquisition!!!!!
+呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者!We are committed to becoming: 1. Big model call center system, big model inbound call, big model outbound call, telephone robot, customer service robot, intelligent call center system, big model intelligent customer service system; 2. Open source call center system, open source customer service system; 3. Video call center system, video customer service system; 4. Omni-channel customer service system, online customer service system and other global leaders in customer service and corporate customer acquisition!
 
 ## 😄完整性：前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！Completeness: front-end, back-end, database, all complete! Full functionality, no restrictions! No distinction between community version and commercial version!
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
@@ -11,13 +11,13 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.04.23 new demo URL 最新链接enjoy😄：
+## 2025.04.24 new demo URL 最新链接enjoy😄：
 
 1，话务call manager/在线客服online chat：(demo123/demo123@Abc)
-http://118.25.192.13:8822/cc
+http://124.220.48.38:8822/cc
 
 2，工单work oder：(demo/123456)
-http://118.25.192.13:80
+http://124.220.48.38:80
 
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/b00ad977-4583-440b-8326-a1cc364068d2)
