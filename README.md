@@ -81,9 +81,13 @@ Basic functions:
 
 下图是随机抽取的需求对接的群：
 
+![image](https://github.com/user-attachments/assets/762192c3-ac64-4fe9-b96a-a36ca66139bf)
+![image](https://github.com/user-attachments/assets/0e380e5f-7be4-4362-bf31-7e0ad847c509)
+![image](https://github.com/user-attachments/assets/0b1132fe-a50f-49a0-a7c3-33b7a0965109)
+![image](https://github.com/user-attachments/assets/5e94aeff-f561-4dd1-8895-bd0f98afe230)
+![image](https://github.com/user-attachments/assets/cd58099e-7fae-400c-b33c-08f4c64ed828)
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
 ![image](https://github.com/user-attachments/assets/5a08bc52-9987-429c-9a98-3a36753a27b4)
-
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 ## 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训 About source code and payment: After payment, we will provide the corresponding module source code and one source code training
